@@ -1,12 +1,53 @@
-# React + Vite
+# UniPath Consulting 🌐
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive React single-page website for **UniPath Consulting**, an educational consulting company.  
+The site highlights our mission, services, FAQs, and contact options with a clean design inspired by modern portfolio/blog layouts.
 
-Currently, two official plugins are available:
+👉 **Live site:** [https://unipathconsulting.us](https://unipathconsulting.us)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Responsive React SPA** built with [Vite](https://vitejs.dev) + React
+- **Navigation bar** with smooth scrolling to About, Services, FAQs, and Contact sections
+- **Hero section** with full-width branding and mission statement
+- **Services section** with detailed bullet lists
+- **FAQs accordion** for quick answers
+- **Contact page** with styled form (Book Free Consultation button links here)
+- **Footer** with company contact info (WhatsApp & email)
+- **Custom domain + SSL** via [Netlify](https://www.netlify.com)
+
+---
+
+## 🛠️ Tech Stack
+
+- **React 18**
+- **Vite** (fast build tool)
+- **React Router DOM** (navigation & routing)
+- **CSS3 / Flexbox / Media Queries** (responsive styling)
+- **Netlify** (hosting, deploy previews, HTTPS, custom domain)
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js 18+
+- npm or yarn
+
+### Installation
+
+```bash
+# clone repo
+git clone https://github.com/<your-username>/<your-repo>.git
+cd <your-repo>
+
+# install dependencies
+npm install
+
+# run dev server
+npm run dev
+
+```
